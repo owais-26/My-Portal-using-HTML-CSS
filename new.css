@@ -1,0 +1,112 @@
+.navbar {
+  margin-top: 10px;
+  background-color: rgba(0, 0, 0, 0.966);
+  border-radius: 35px;
+  width: px;
+}
+.navbar ul {
+  overflow: auto;
+}
+.navbar li {
+  float: left;
+
+  list-style: none;
+
+  margin: 12px 12px;
+  box-sizing: border-box;
+}
+.navbar li a {
+  color: white;
+  font-size: large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bolder;
+  font-size: 28px;
+  padding: 5px 5px;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+.search {
+  padding: 12px 15px;
+  margin: auto;
+  font-size: 28px;
+  font-weight: bolder;
+  box-sizing: border-box;
+}
+.main {
+  background-color: rgb(209, 9, 9);
+
+  border: 5px solid blue;
+  padding-top: 20px;
+}
+h1 {
+  font-style: oblique;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bolder;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 28px;
+  color: white;
+}
+nav input {
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  float: right;
+  padding-right: 50px;
+  border-radius: 20px;
+  border-color: green;
+}
+a:hover {
+  background-color: blue;
+}
+.image {
+  margin: 3px auto;
+  border-radius: 1000px;
+  width: 200px;
+  background-color: blue;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+p {
+  color: white;
+  font-size: 18px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 15px;
+  border: black solid 6px;
+  margin: 15px;
+}
+.spn {
+  padding-left: 20px;
+  font-style: oblique;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bolder;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 18px;
+  color: white;
+  padding-bottom: 5px;
+}
+.list {
+  padding-left: 20px;
+  padding-bottom: 5px;
+  font-size: 15px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+
+  font-size: 14px;
+  color: white;
+}
+.ned {
+  overflow: auto;
+  text-decoration: none;
+  color: white;
+}
+.ned:hover {
+  color: blue;
+  background-color: white;
+}
+body {
+  background-color: black;
+}
